@@ -23,3 +23,5 @@ export TARGET_URL="https://prod-preview.openshift.io/"
 export TEST_PLATFORM="osio"
 export DISABLE_CHE="true"
 """
+
+input message: "Ready to terminale?"
